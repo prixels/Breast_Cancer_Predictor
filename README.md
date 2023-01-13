@@ -4,8 +4,8 @@ This project aims to build a machine learning model that can predict the likelih
 <h1>Dependencies</h1>
 The following software libraries are required to run the model:
 
-*Python 3.x
--scikit-learn
--pandas
--numpy
+* Python 3.x
+- scikit-learn
+- pandas
+- numpy
 
